@@ -1,0 +1,26 @@
+{
+  "manifest_version": "1.0",
+  "org": "simonw",
+  "repo": "llm-keys-ui",
+  "versions": [
+    {
+      "commit": "cb1dd2ff4962e8a8276da6ebc17169170f467c11",
+      "parsed_at": "2026-10-20T10:12:38.348792+00:00",
+      "filetree": "filetree/cb1dd2ff4962e8a8276da6ebc17169170f467c11.nq.gz",
+      "blobs": [
+        "blob/8433b121acb46137ab14ed4ad03d09dc3bbcbe5d.nq.gz",
+        "blob/261eeb9e9f8b2b4b0d119366dda99c6fd7d35c64.nq.gz",
+        "blob/4dbaa6e7fb4c83ebe86e411b3477a365ddf8ae75.nq.gz",
+        "blob/23d95820336e6e23f53461330d46b2336ca75794.nq.gz",
+        "blob/8c853af6d83c999b7e95de091fa67ab965ee0493.nq.gz",
+        "blob/d0d5ce3ee8fa6494d61b4f902ee7d8de943e1b36.nq.gz",
+        "blob/72203e17a9b87cfe68d06200f5ca8f328c451bfd.nq.gz",
+        "blob/99289762b0f46c6c1340eeed16229bc6e04b37e4.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}
