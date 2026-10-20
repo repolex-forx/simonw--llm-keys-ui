@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/simonw/llm-keys-ui/commit/cb1dd2ff4962e8a8276da6ebc17169170f467c11",
       "git:hexsha": "cb1dd2ff4962e8a8276da6ebc17169170f467c11",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/simonw/llm-keys-ui/commit/64159484571205eb53fb6171e3ab22ecab02e041",
